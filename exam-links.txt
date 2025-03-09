@@ -1,1 +1,4 @@
-Aqu� van los enlaces importantes del examen
+ Enlace público de Trello: https://trello.com/b/qLbmNmaa/movil-g1-2025a
+ Enlace público de Figma: https://www.figma.com/proto/863skEwokbo5QNPT51Pb0o/Untitled?node-id=18-223&p=f&t=NxovMKFOMjarryEj-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A3&show-proto-sidebar=1
+ Enlace del repositorio en Git: https://github.com/Dannamo34/programacion-movil-2025-a-g1/tree/feature/exam-c1
+ 
