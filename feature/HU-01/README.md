@@ -32,4 +32,4 @@ Se completaron todas las tareas de la HU1: Comprensión del problema, que incluy
 ✔ Subir el modelo relacional en Trello.
 
 A continuación, se adjunta la evidencia del avance:
-![completado HU1](image-2.png)
+![completado](image-3.png)
