@@ -22,3 +22,14 @@ El desarrollo se gestiona con **Trello**, **Figma**, **GitHub** y sigue un enfoq
 - 📐 Diseñar wireframes en Figma.  
 - 🔗 Compartir el enlace público en Trello.  
 ![evidencia HU2](image-1.png)
+
+###  **Evidencia de la HU1** 
+Se completaron todas las tareas de la HU1: Comprensión del problema, que incluyeron:
+✔ Definir el objetivo de la aplicación.
+✔ Listar funcionalidades principales.
+✔ Crear el modelo relacional (Diagrama de Base de Datos).
+✔ Definir el cronograma de trabajo alineado con los sprints.
+✔ Subir el modelo relacional en Trello.
+
+A continuación, se adjunta la evidencia del avance:
+![completado HU1](image-2.png)
