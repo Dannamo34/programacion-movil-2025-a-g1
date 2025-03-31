@@ -1,0 +1,47 @@
+@startuml
+    class Persona{
+        -id: int
+        -nombre: String
+        -apellido: String
+        -email: String
+        -telefono: String
+        -direccion: String
+        -fechaNacimiento: Date
+        -estado: boolean
+    }
+
+    class Profesor{
+        -id: int
+        -fechaIngreso: Date
+        -salario: double
+        -estado: boolean
+        -personaId: Persona
+    }
+
+    class Estudiante{
+        -id: int
+        -fechaIngreso: Date
+        -estado: boolean
+        -personaId: Persona
+    }
+
+    class Proveedor{
+        -id: int
+        -estado: boolean
+        -personaId: Persona
+    }
+
+    class Empleado{
+        -id: int
+        -fechaIngreso: Date
+        -salario: double
+        -estado: boolean
+        -personaId: Persona
+    }
+
+    Profesor *-- Persona
+    Estudiante *-- Persona
+    Proveedor *-- Persona
+    Empleado *-- Persona
+
+@enduml
