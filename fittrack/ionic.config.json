@@ -1,7 +1,0 @@
-{
-  "name": "fittrack",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
